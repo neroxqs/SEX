@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa6e41651e7fa9ac22ef491670a5ca34aa93f1d95",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa6e41651e7fa9ac22ef491670a5ca34aa93f1d95",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MATIJA KMETIC NFT",
+  "SYMBOL": "KMNFT",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 69,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/marko-2o6qilnj1k",
+  "SHOW_BACKGROUND": true
+}
